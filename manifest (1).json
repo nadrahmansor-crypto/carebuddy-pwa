@@ -1,0 +1,53 @@
+{
+  "background_color": "#ffffff",
+  "description": "CareBuddy is a triage chatbot that helps you decide whether to stay home, visit a clinic or go to the Emergency Department. Trusted and gu",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "CareBuddy | Your Health Advisor",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "CareBuddy | Your Health Advisor",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://storage.googleapis.com/media.landbot.io/830948/channels/P28A8Q4VXX2OY4HR2H3C7JU15AJXA5DA.jpeg",
+      "type": "image/jpeg",
+      "sizes": "350x263",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": true,
+      "width": 350,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://cdn.landbot.io/landbot/files/meta_image_twitter.png",
+      "type": "image/png",
+      "sizes": "2048x1024",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 2048,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://cdn.landbot.io/landbot/files/meta_image_og.png",
+      "type": "image/png",
+      "sizes": "2400x1258",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 2400,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
